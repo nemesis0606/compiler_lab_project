@@ -1,0 +1,17 @@
+int a
+assign a = 6
+int b
+assign b = 7
+int c
+assign c = a + 5
+if a > b
+{
+    display c 
+}
+else 
+{
+    loop i : 1 to 5
+    {
+        display b
+    }
+}
